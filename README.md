@@ -15,3 +15,4 @@
 
 > npm i web3 @drizzle/store redux react-redux redux-logger --save
 
+> npm start
